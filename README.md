@@ -1,5 +1,11 @@
 # Getting Started with Create React App || calculadora de IMC
 
+Começamos a Semana React JS 🚀🖤
+
+Desenvolvendo um projeto de cálculo de IMC (índice de massa corporal) aplicando a lógica e utilizando boas práticas com React JS, JavaScript, CSS3 e HTML5. 
+Muito obrigado. 😊
+
+
 screen(1/4)
 
 ![projeto_imc](https://user-images.githubusercontent.com/92833379/151897771-c81065e4-6892-4098-9840-1cbe84573582.png)
