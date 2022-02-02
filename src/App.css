@@ -7,6 +7,11 @@
   flex-direction: column;
 }
 
+.app button:hover {
+  transition: .5s;
+  transform: scale(1.05);
+}
+
 h1 {
   font-size: 50px;
 }
